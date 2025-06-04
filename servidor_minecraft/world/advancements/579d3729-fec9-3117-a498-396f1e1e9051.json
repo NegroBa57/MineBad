@@ -24,12 +24,14 @@
       "minecraft:dripstone_caves": "2025-06-03 22:03:04 +0000",
       "minecraft:snowy_taiga": "2025-06-04 17:23:04 +0000",
       "minecraft:ice_spikes": "2025-06-04 17:22:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-04 18:10:42 +0000",
       "minecraft:frozen_ocean": "2025-06-04 17:29:03 +0000",
       "minecraft:frozen_river": "2025-06-04 17:10:54 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-04 17:29:48 +0000",
       "minecraft:deep_dark": "2025-06-03 22:35:28 +0000",
       "minecraft:grove": "2025-06-04 17:43:02 +0000",
       "minecraft:meadow": "2025-06-03 21:56:59 +0000",
+      "minecraft:birch_forest": "2025-06-04 18:11:56 +0000",
       "minecraft:plains": "2025-06-03 20:43:16 +0000"
     },
     "done": false
@@ -587,8 +589,10 @@
       "minecraft:cave_spider": "2025-06-03 22:11:46 +0000",
       "minecraft:skeleton": "2025-06-03 21:47:18 +0000",
       "minecraft:stray": "2025-06-04 17:12:56 +0000",
+      "minecraft:spider": "2025-06-04 18:15:07 +0000",
       "minecraft:zombie": "2025-06-03 20:44:53 +0000",
-      "minecraft:creeper": "2025-06-03 20:50:27 +0000"
+      "minecraft:creeper": "2025-06-03 20:50:27 +0000",
+      "minecraft:zombie_villager": "2025-06-04 18:11:08 +0000"
     },
     "done": false
   },
@@ -2063,6 +2067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:06:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-04 17:53:59 +0000"
@@ -2117,9 +2127,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:06:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-04 17:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:06:16 +0000"
     },
     "done": true
   },
@@ -2132,6 +2154,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-04 17:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-06-04 18:10:51 +0000"
     },
     "done": true
   },
@@ -2150,6 +2178,18 @@
   "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-06-04 18:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-04 18:17:21 +0000"
     },
     "done": true
   },
@@ -2180,6 +2220,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-04 17:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:06:16 +0000"
     },
     "done": true
   },
@@ -2219,6 +2265,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-06-04 18:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:06:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-06-04 18:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-06-04 17:51:11 +0000"
@@ -2228,6 +2292,18 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-06-04 17:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-06-04 18:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:06:16 +0000"
     },
     "done": true
   },
@@ -2267,6 +2343,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-06-04 18:10:51 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:07 +0000"
@@ -2282,6 +2364,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:06:16 +0000"
     },
     "done": true
   },
@@ -2306,6 +2394,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-04 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-06-04 18:10:51 +0000"
     },
     "done": true
   },
@@ -2357,6 +2451,12 @@
     },
     "done": true
   },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-06-04 18:10:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-04 17:31:48 +0000"
@@ -2384,6 +2484,12 @@
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-06-04 17:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:06:16 +0000"
     },
     "done": true
   },
@@ -2474,6 +2580,12 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-06-04 17:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:06:16 +0000"
     },
     "done": true
   },

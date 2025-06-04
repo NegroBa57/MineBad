@@ -516,4 +516,61 @@ Server threadEx[04Jun2025 17:57:12.292] [Server thread/INFO] [com.tiviacz.travel
 Server threadEx[04Jun2025 17:57:12.292] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -931 Y: 69 Z: -3854
 Server threadEx[04Jun2025 17:57:12.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta fell from a high place
 Server threadEx[04Jun2025 17:57:35.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported badbalta to SimonPro74
-Server threadEx
+Server threadEx[04Jun2025 17:59:22.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made badbalta a server operator
+Server threadEx[04Jun2025 18:02:16.148] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /mods
+Server threadEx[04Jun2025 18:02:18.207] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help
+Server threadEx[04Jun2025 18:02:29.197] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 2
+Server threadEx[04Jun2025 18:02:32.648] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 3
+Server threadEx[04Jun2025 18:02:34.878] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 4
+Server threadEx[04Jun2025 18:02:38.584] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 5
+Server threadEx[04Jun2025 18:02:43.062] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 6
+Server threadEx[04Jun2025 18:02:46.384] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 7
+Server threadEx[04Jun2025 18:02:49.323] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 8
+Server threadEx[04Jun2025 18:02:56.591] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 9
+Server threadEx[04Jun2025 18:03:00.578] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 10
+Server threadEx[04Jun2025 18:03:05.059] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /help 11
+Server threadEx[04Jun2025 18:05:18.553] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /skin set Gangstaguy SimonPro74
+Server threadEx[04Jun2025 18:05:40.651] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /skin help
+Server threadEx[04Jun2025 18:05:46.373] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /skin config
+Server threadEx[04Jun2025 18:06:03.656] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /skin set mojang Gangstaguy SimonPro74
+Server threadEx[04Jun2025 18:06:03.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [badbalta: Applied skin changes for SimonPro74]
+Server threadEx[04Jun2025 18:06:44.240] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+Worker-Main-1Ex[04Jun2025 18:07:09.374] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:09.374] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:09.374] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:09.375] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:09.375] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:09.375] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:09.375] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:09.375] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:09.375] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:09.375] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:25.481] [Worker-Main-3/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-3Ex[04Jun2025 18:07:29.987] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+Worker-Main-4Ex[04Jun2025 18:07:53.242] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+Worker-Main-4Ex[04Jun2025 18:09:12.381] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 18:09:12.381] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 18:09:12.494] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:09:12.494] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:09:12.494] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:09:12.495] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:09:12.495] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:09:12.495] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 18:10:34.417] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+Worker-Main-4Ex[04Jun2025 18:14:01.730] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /gamerule keepInventory true
+Server threadEx[04Jun2025 18:14:01.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [badbalta: Gamerule keepInventory is now set to: true]
+Server threadEx[04Jun2025 18:14:48.068] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 18:14:48.068] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 18:14:48.068] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 18:14:48.068] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 18:14:48.068] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex
