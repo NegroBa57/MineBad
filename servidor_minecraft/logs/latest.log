@@ -591,4 +591,71 @@ Server threadEx[04Jun2025 18:34:36.813] [Server thread/INFO] [net.minecraft.clas
 Server threadEx[04Jun2025 18:34:36.818] [Server thread/INFO] [net.minecraft.class_3079/]: Locating element minecraft:jungle took 4 ms
 Server threadEx[04Jun2025 18:44:12.197] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta lost connection: Disconnected
 Server threadEx[04Jun2025 18:44:12.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta left the game
+Server threadEx[04Jun2025 18:51:06.030] [User Authenticator #4/INFO] [net.minecraft.class_3248/]: UUID of player badbalta is 579d3729-fec9-3117-a498-396f1e1e9051
+User Authenticator #4Ex[04Jun2025 18:51:08.173] [Server thread/INFO] [net.minecraft.class_3324/]: badbalta[/127.64.18.150:59665] logged in with entity id 36861 at (-511.51081838605563, 78.0, -6166.989538375809)
+Server threadEx[04Jun2025 18:51:08.174] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Loading config from file...
+Server threadEx[04Jun2025 18:51:08.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta joined the game
+Server threadEx[04Jun2025 18:51:24.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SimonPro74 has made the advancement [Best Friends Forever]
+Server threadEx[04Jun2025 18:53:10.297] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta lost connection: Disconnected
+Server threadEx[04Jun2025 18:53:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta left the game
+Server threadEx[04Jun2025 18:53:29.896] [Server thread/INFO] [net.minecraft.class_3244/]: SimonPro74 lost connection: Timed out
+Server threadEx[04Jun2025 18:53:29.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SimonPro74 left the game
+Server threadEx[04Jun2025 18:54:05.209] [User Authenticator #5/INFO] [net.minecraft.class_3248/]: UUID of player badbalta is 579d3729-fec9-3117-a498-396f1e1e9051
+User Authenticator #5Ex[04Jun2025 18:54:07.477] [Server thread/INFO] [net.minecraft.class_3324/]: badbalta[/127.64.18.150:59659] logged in with entity id 37333 at (-511.63415624983776, 78.0, -6167.428984431211)
+Server threadEx[04Jun2025 18:54:07.478] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Loading config from file...
+Server threadEx[04Jun2025 18:54:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta joined the game
+Server threadEx[04Jun2025 18:59:24.835] [User Authenticator #6/INFO] [net.minecraft.class_3248/]: UUID of player SimonPro74 is 2443d009-a4b6-3027-9a02-688c0f537c7c
+User Authenticator #6Ex[04Jun2025 18:59:27.648] [Server thread/INFO] [net.minecraft.class_3324/]: SimonPro74[/127.64.18.150:33167] logged in with entity id 38295 at (-476.56720216691895, 80.0, -6197.260722749372)
+Server threadEx[04Jun2025 18:59:27.649] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Loading config from file...
+Server threadEx[04Jun2025 18:59:27.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SimonPro74 joined the game
+Server threadEx[04Jun2025 19:05:28.305] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:05:28.305] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:05:28.305] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:05:28.305] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:05:28.305] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:05:28.306] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:05:28.312] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:05:28.312] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:06:17.107] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+Worker-Main-3Ex[04Jun2025 19:07:04.385] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+Worker-Main-4Ex[04Jun2025 19:07:53.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SimonPro74 was doomed to fall by Skeleton
+Server threadEx[04Jun2025 19:08:08.771] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /tp SimonPro74 badbalta
+Server threadEx[04Jun2025 19:08:08.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [badbalta: Teleported SimonPro74 to badbalta]
+Server threadEx[04Jun2025 19:08:50.267] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+Worker-Main-3Ex[04Jun2025 19:09:20.541] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+Worker-Main-4Ex[04Jun2025 19:09:49.318] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+Worker-Main-4Ex[04Jun2025 19:12:44.852] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /locate structure minecraft:village_plains
+Server threadEx[04Jun2025 19:12:46.032] [Server thread/INFO] [net.minecraft.class_3079/]: Locating element minecraft:village_plains took 1177 ms
+Server threadEx[04Jun2025 19:14:18.087] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:14:18.087] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:14:18.087] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:14:18.087] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:14:18.087] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:18:05.753] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-1Ex[04Jun2025 19:18:05.753] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-1Ex[04Jun2025 19:18:05.753] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-1Ex[04Jun2025 19:18:05.753] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-1Ex[04Jun2025 19:18:05.753] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-1Ex[04Jun2025 19:19:29.236] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+Worker-Main-4Ex[04Jun2025 19:19:38.723] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-4Ex[04Jun2025 19:19:38.723] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-4Ex[04Jun2025 19:19:38.723] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-4Ex[04Jun2025 19:19:38.723] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-4Ex[04Jun2025 19:19:38.723] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+Worker-Main-4Ex[04Jun2025 19:20:18.435] [Worker-Main-4/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-4Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:22:06.451] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
+Worker-Main-1Ex[04Jun2025 19:24:25.276] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /tp SimonPro74 badbalta
+Server threadEx[04Jun2025 19:24:25.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [badbalta: Teleported SimonPro74 to badbalta]
+Server threadEx[04Jun2025 19:24:29.151] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+Worker-Main-1Ex[04Jun2025 19:28:22.586] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /tp SimonPro74 badbalta
+Server threadEx[04Jun2025 19:28:22.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [badbalta: Teleported SimonPro74 to badbalta]
 Server threadEx
