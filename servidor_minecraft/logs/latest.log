@@ -1,0 +1,438 @@
+[04Jun2025 16:57:49.704] [main/INFO] [FabricLoader/GameProvider/]: Loading Minecraft 1.20.4 Arclight arclight-1.20.4-1.0.4-80ec5df with Fabric Loader 0.15.11
+mainEx[04Jun2025 16:57:49.881] [ForkJoinPool-1-worker-1/WARN] [FabricLoader/Metadata/]: Mod travelersbackpack uses the version fabric-1.20.4-9.4.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+ForkJoinPool-1-worker-1Ex[04Jun2025 16:57:50.121] [main/INFO] [FabricLoader/]: Loading 104 mods:
+	- additionalstructures 4.2.2
+	- architectury 11.1.17
+	- arclight 1.0.4+80ec5df
+	- betterdeserttemples 1.20.4-Fabric-3.4.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterendisland 1.20.4-Fabric-2.4.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.20.4-Fabric-2.4.4
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.20.4-Fabric-4.4.2
+	   \-- org_reflections_reflections 0.10.2
+	- betteroceanmonuments 1.20.4-Fabric-3.4.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterstrongholds 1.20.4-Fabric-4.4.3
+	   \-- org_reflections_reflections 0.10.2
+	- cardinal-components 5.4.0
+	   |-- cardinal-components-base 5.4.0
+	   |-- cardinal-components-block 5.4.0
+	   |-- cardinal-components-chunk 5.4.0
+	   |-- cardinal-components-entity 5.4.0
+	   |-- cardinal-components-item 5.4.0
+	   |-- cardinal-components-level 5.4.0
+	   |-- cardinal-components-scoreboard 5.4.0
+	   \-- cardinal-components-world 5.4.0
+	- carryon 2.1.3
+	- cloth-config 13.0.138
+	   \-- cloth-basic-math 0.6.1
+	- clumps 15.0.0.2
+	- comforts 7.2.2+1.20.4
+	   \-- spectrelib 0.15.2+1.20.4
+	        |-- com_electronwill_night-config_core 3.6.5
+	        \-- com_electronwill_night-config_toml 3.6.5
+	- cristellib 1.2.4
+	   \-- blue_endless_jankson 1.2.3
+	- endermanoverhaul 1.1.8
+	- explorify 1.6.2
+	- fabric-api 0.97.2+1.20.4
+	   |-- fabric-api-base 0.4.37+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.50+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.17+78d798af4f
+	   |-- fabric-block-api-v1 1.0.17+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.5+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.47+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.8+78d798af4f
+	   |-- fabric-command-api-v1 1.2.42+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.21+78d798af4f
+	   |-- fabric-commands-v0 0.2.59+df3654b34f
+	   |-- fabric-containers-v0 0.1.88+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.16+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.11+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.24+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.5+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.6+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.63+6605d1a84f
+	   |-- fabric-entity-events-v1 1.6.2+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.2+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.75+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.47+78d798af4f
+	   |-- fabric-item-api-v1 2.3.0+bcdd12964f
+	   |-- fabric-item-group-api-v1 4.0.27+ee30b13a4f
+	   |-- fabric-key-binding-api-v1 1.0.42+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.40+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.1+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.10+78d798af4f
+	   |-- fabric-message-api-v1 6.0.6+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.66+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.9+78d798af4f
+	   |-- fabric-models-v0 0.4.8+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.9+6abb6a4b4f
+	   |-- fabric-object-builder-api-v1 13.1.0+dba1195c4f
+	   |-- fabric-particles-v1 1.1.8+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.22+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.21+ee30b13a4f
+	   |-- fabric-renderer-api-v1 3.2.5+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.6+d331d3144f
+	   |-- fabric-renderer-registries-v1 3.2.54+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.43+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.2+e761c6694f
+	   |-- fabric-rendering-v0 1.1.57+df3654b34f
+	   |-- fabric-rendering-v1 3.2.1+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.15+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.21+ee30b13a4f
+	   |-- fabric-screen-api-v1 2.0.18+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.57+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.18+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.12+90f2d7b14f
+	   \-- fabric-transitive-access-wideners-v1 5.0.15+78d798af4f
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- geckolib 4.4.4
+	   \-- com_eliotlash_mclib_mclib 20
+	- inventorymanagement 1.5.0
+	- jade 13.3.1
+	- java 21
+	- mcwdoors 1.1.2
+	- mcwfences 1.2.0
+	- mcwfurnitures 3.3.0
+	- mcwpaintings 1.0.5
+	- mcwstairs 1.0.1
+	- mcwtrpdoors 1.1.4
+	- mcwwindows 2.3.1
+	- mes 1.3.4-1.20-fabric
+	- minecraft 1.20.4
+	- mss 1.2.7-1.20-fabric
+	- mvs 4.1.2-1.20-fabric
+	- plushies 1.4.0
+	- quartzelv 2.2.7+1.20.4
+	- resourcefulconfig 2.4.8
+	- resourcefullib 2.4.10
+	   |-- com_teamresourceful_bytecodecs 1.0.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- skinrestorer 2.3.3+1.20.3-fabric
+	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
+	- spawnermod 1.2.5
+	- t_and_t 1.13.1
+	- travelersbackpack fabric-1.20.4-9.4.6
+	   \-- reach-entity-attributes 2.5.0
+	- trinkets 3.8.1
+	- villagesandpillages 1.0.2
+	- yungsapi 1.20.4-Fabric-4.4.3
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- yungsextras 1.20.4-Fabric-4.4.2
+	   \-- org_reflections_reflections 0.10.2
+mainEx[04Jun2025 16:57:50.283] [main/INFO] [FabricLoader/Mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/MineBad/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+mainEx[04Jun2025 16:57:50.380] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_16
+mainEx[04Jun2025 16:57:50.386] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_17
+mainEx[04Jun2025 16:57:50.942] [main/INFO] [Arclight/]: Using locale en_ and fallback locale en_us
+mainEx[04Jun2025 16:57:50.949] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    Version 附耳 (Whisper) / arclight-1.20.4-1.0.4-80ec5df
+    Build Date 2024-06-14 12:05:55
+
+mainEx[04Jun2025 16:57:51.071] [main/WARN] [FabricLoader/Mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+mainEx[04Jun2025 16:57:51.071] [main/WARN] [FabricLoader/Mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+mainEx[04Jun2025 16:57:52.549] [main/INFO] [FabricLoader/MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+mainEx[04Jun2025 16:58:02.394] [main/INFO] [org.reflections.Reflections/]: Reflections took 42 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:02.418] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:02.467] [main/INFO] [org.reflections.Reflections/]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:02.473] [main/INFO] [org.reflections.Reflections/]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:02.482] [main/INFO] [org.reflections.Reflections/]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+mainEx[04Jun2025 16:58:02.489] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+mainEx[04Jun2025 16:58:02.534] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:02.553] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:02.567] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+mainEx[04Jun2025 16:58:02.570] [main/INFO] [org.reflections.Reflections/]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+mainEx[04Jun2025 16:58:02.579] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:02.583] [main/INFO] [org.reflections.Reflections/]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:03.041] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for badlands_enderman
+mainEx[04Jun2025 16:58:03.043] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for cave_enderman
+mainEx[04Jun2025 16:58:03.044] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for crimson_forest_enderman
+mainEx[04Jun2025 16:58:03.046] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for dark_oak_enderman
+mainEx[04Jun2025 16:58:03.048] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for desert_enderman
+mainEx[04Jun2025 16:58:03.050] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for end_enderman
+mainEx[04Jun2025 16:58:03.054] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for end_islands_enderman
+mainEx[04Jun2025 16:58:03.056] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for flower_fields_enderman
+mainEx[04Jun2025 16:58:03.058] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for ice_spikes_enderman
+mainEx[04Jun2025 16:58:03.059] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for mushroom_fields_enderman
+mainEx[04Jun2025 16:58:03.060] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for nether_wastes_enderman
+mainEx[04Jun2025 16:58:03.063] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for coral_enderman
+mainEx[04Jun2025 16:58:03.065] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for savanna_enderman
+mainEx[04Jun2025 16:58:03.066] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for snowy_enderman
+mainEx[04Jun2025 16:58:03.069] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for soulsand_valley_enderman
+mainEx[04Jun2025 16:58:03.071] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for swamp_enderman
+mainEx[04Jun2025 16:58:03.072] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for warped_forest_enderman
+mainEx[04Jun2025 16:58:03.074] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for windswept_hills_enderman
+mainEx[04Jun2025 16:58:03.079] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for pet_enderman
+mainEx[04Jun2025 16:58:03.080] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for hammerhead_pet_enderman
+mainEx[04Jun2025 16:58:03.082] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for axolotl_pet_enderman
+mainEx[04Jun2025 16:58:03.082] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for scarab
+mainEx[04Jun2025 16:58:03.083] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for spirit
+mainEx[04Jun2025 16:58:03.084] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for ender_bullet
+mainEx[04Jun2025 16:58:03.085] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for corrupted_pearl
+mainEx[04Jun2025 16:58:03.086] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for soul_pearl
+mainEx[04Jun2025 16:58:03.088] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for ancient_pearl
+mainEx[04Jun2025 16:58:03.089] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for bubble_pearl
+mainEx[04Jun2025 16:58:03.090] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for summoner_pearl
+mainEx[04Jun2025 16:58:03.091] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for icy_pearl
+mainEx[04Jun2025 16:58:03.092] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for crimson_pearl
+mainEx[04Jun2025 16:58:03.093] [main/ERROR] [net.minecraft.class_156/]: No data fixer registered for warped_pearl
+mainEx[04Jun2025 16:58:04.248] [main/WARN] [org.mineskin.MineSkinClient/]: Creating MineSkinClient without API key
+mainEx[04Jun2025 16:58:04.265] [main/INFO] [spawnermod/]: Reading config values from file.
+mainEx[04Jun2025 16:58:04.477] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+mainEx[04Jun2025 16:58:04.477] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+mainEx[04Jun2025 16:58:04.480] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+mainEx[04Jun2025 16:58:04.480] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+mainEx[04Jun2025 16:58:04.490] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+mainEx[04Jun2025 16:58:04.494] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+mainEx[04Jun2025 16:58:04.498] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:04.510] [main/INFO] [org.reflections.Reflections/]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[04Jun2025 16:58:04.584] [main/ERROR] [Cristel Lib/]: Pack for WWOO LOL is null
+mainEx[04Jun2025 16:58:04.598] [main/ERROR] [Cristel Lib/]: Pack for WWOO LOL is null
+mainEx[04Jun2025 16:58:04.608] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+mainEx[04Jun2025 16:58:04.907] [main/ERROR] [Cristel Lib/]: Pack for WWOO LOL is null
+mainEx[04Jun2025 16:58:07.235] [main/INFO] [net.minecraft.class_1863/]: Loaded 7 recipes
+mainEx[04Jun2025 16:58:07.472] [main/INFO] [net.minecraft.class_163/]: Loaded 1714 advancements
+mainEx[04Jun2025 16:58:08.819] [main/INFO] [net.fabricmc.fabric.impl.biome.modification.BiomeModificationImpl/]: Applied 197 biome modifications to 34 of 64 new biomes in 23.17 ms
+mainEx[04Jun2025 16:58:08.841] [Server thread/INFO] [net.minecraft.class_3176/]: Starting minecraft server version 1.20.4
+Server threadEx[04Jun2025 16:58:08.841] [Server thread/INFO] [net.minecraft.class_3176/]: Loading properties
+Server threadEx[04Jun2025 16:58:08.841] [Server thread/INFO] [net.minecraft.class_3176/]: Default game type: SURVIVAL
+Server threadEx[04Jun2025 16:58:08.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+Server threadEx[04Jun2025 16:58:08.928] [Server thread/INFO] [net.minecraft.class_3176/]: Starting Minecraft server on *:25565
+Server threadEx[04Jun2025 16:58:08.994] [Server thread/INFO] [net.minecraft.class_3242/]: Using epoll channel type
+Server threadEx[04Jun2025 16:58:09.083] [Server thread/WARN] [net.minecraft.class_3176/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Server threadEx[04Jun2025 16:58:09.083] [Server thread/WARN] [net.minecraft.class_3176/]: The server will make no attempt to authenticate usernames. Beware.
+Server threadEx[04Jun2025 16:58:09.083] [Server thread/WARN] [net.minecraft.class_3176/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Server threadEx[04Jun2025 16:58:09.083] [Server thread/WARN] [net.minecraft.class_3176/]: To change this, set "online-mode" to "true" in the server.properties file.
+Server threadEx[04Jun2025 16:58:09.482] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.4-1.0.4-80ec5df (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+Server threadEx[04Jun2025 16:58:10.522] [Server thread/INFO] [Arclight/]: Registering for Bukkit ...
+Server threadEx[04Jun2025 16:58:11.009] [Server thread/INFO] [Arclight/]: Registered 1991 new materials with 1916 blocks and 75 items
+Server threadEx[04Jun2025 16:58:11.225] [Server thread/INFO] [Arclight/]: Registered 33 new entity types
+Server threadEx[04Jun2025 16:58:11.226] [Server thread/INFO] [Arclight/]: Registered 0 new villager professions
+Server threadEx[04Jun2025 16:58:11.227] [Server thread/INFO] [Arclight/]: Registered 0 new biomes
+Server threadEx[04Jun2025 16:58:11.257] [Server thread/INFO] [net.minecraft.class_2983/]: [STDOUT]: Server Ping Player Sample Count: 12
+Server threadEx[04Jun2025 16:58:11.260] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+Server threadEx[04Jun2025 16:58:11.261] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+Server threadEx[04Jun2025 16:58:11.409] [Server thread/INFO] [net.minecraft.class_3176/]: Preparing level "world"
+Server threadEx[04Jun2025 16:58:11.430] [Server thread/INFO] [Arclight/]: Registered 0 new dimensions
+Server threadEx[04Jun2025 16:58:11.811] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.815] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.819] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.819] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.819] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.819] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.819] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.819] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.819] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:11.820] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[04Jun2025 16:58:11.820] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[04Jun2025 16:58:11.820] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[04Jun2025 16:58:11.820] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[04Jun2025 16:58:11.820] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[04Jun2025 16:58:11.820] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[04Jun2025 16:58:11.829] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[04Jun2025 16:58:11.829] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[04Jun2025 16:58:11.835] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[04Jun2025 16:58:11.835] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[04Jun2025 16:58:11.835] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[04Jun2025 16:58:11.837] [Server thread/INFO] [Minecraft/]: View Distance: 10
+Server threadEx[04Jun2025 16:58:11.837] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[04Jun2025 16:58:11.837] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[04Jun2025 16:58:11.838] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[04Jun2025 16:58:11.838] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[04Jun2025 16:58:15.571] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+Server threadEx[04Jun2025 16:58:15.571] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.572] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.572] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.572] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.572] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.573] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.573] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.573] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: View Distance: 10
+Server threadEx[04Jun2025 16:58:15.574] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[04Jun2025 16:58:15.575] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[04Jun2025 16:58:15.575] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[04Jun2025 16:58:15.575] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[04Jun2025 16:58:15.610] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[04Jun2025 16:58:15.611] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[04Jun2025 16:58:15.611] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[04Jun2025 16:58:15.611] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[04Jun2025 16:58:15.611] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[04Jun2025 16:58:15.611] [Server thread/INFO] [Minecraft/]: View Distance: 10
+Server threadEx[04Jun2025 16:58:15.611] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[04Jun2025 16:58:15.611] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[04Jun2025 16:58:15.611] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[04Jun2025 16:58:15.611] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[04Jun2025 16:58:15.633] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+Server threadEx[04Jun2025 16:58:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+Server threadEx[04Jun2025 16:58:18.810] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[04Jun2025 16:58:18.825] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-2Ex[04Jun2025 16:58:18.840] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-2Ex[04Jun2025 16:58:18.873] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[04Jun2025 16:58:19.140] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-2Ex[04Jun2025 16:58:19.327] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[04Jun2025 16:58:19.334] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[04Jun2025 16:58:19.335] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[04Jun2025 16:58:20.307] [Server thread/ERROR] [net.minecraft.class_3485/]: Couldn't load structure mss:diorite_house
+Server threadEx net.minecraft.class_8911: Loading NBT data
+	at net.minecraft.class_2487.method_10581(CompoundTagMixin.java:526) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_53895(class_2499.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23249(class_2499.java:31) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23262(class_2499.java:26) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(CompoundTagMixin.java:520) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_52892(class_2507.java:185) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10626(class_2507.java:180) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10625(class_2507.java:105) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10629(class_2507.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15090(class_3485.java:228) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44231(class_3485.java:218) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15088(class_3485.java:131) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44245(class_3485.java:109) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.class_3485.method_15094(class_3485.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15091(class_3485.java:87) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3781.method_27233(class_3781.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3781.method_16628(class_3781.java:125) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3790.<init>(class_3790.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_6624.method_38711(class_6624.java:73) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3449.method_41621(StructureStartMixin.java:67) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_12392(ChunkSerializerMixin.java:460) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_12395(ChunkSerializerMixin.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_43375(ChunkMapMixin.java:612) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(ServerChunkCache_MainThreadExecutorMixin.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(ServerChunkCache_MainThreadExecutorMixin.java:656) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_19492(ServerChunkCacheMixin.java:280) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:785) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeModerately(MinecraftServerMixin.java:2203) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3774(MinecraftServerMixin.java:2258) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServerMixin.java:333) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3823(DedicatedServerMixin_Vanilla.java:169) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2075) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 26
+	at net.minecraft.class_4614$1.method_39878(class_4614.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4614$1.method_23264(class_4614.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4614$1.method_23262(class_4614.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(CompoundTagMixin.java:520) ~[server-intermediary.jar:?]
+	... 47 more
+[04Jun2025 16:58:20.722] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[04Jun2025 16:58:20.728] [Worker-Main-1/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-1Ex[04Jun2025 16:58:20.734] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[04Jun2025 16:58:21.184] [Worker-Main-1/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-1Ex[04Jun2025 16:58:21.648] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 6%
+Worker-Main-2Ex[04Jun2025 16:58:22.148] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 84%
+Worker-Main-2Ex[04Jun2025 16:58:22.236] [Server thread/INFO] [net.minecraft.class_3951/]: Time elapsed: 6589 ms
+Server threadEx[04Jun2025 16:58:22.236] [Server thread/INFO] [net.minecraft.class_3176/]: Done (10.828s)! For help, type "help"
+Server threadEx[04Jun2025 16:58:22.250] [Server thread/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade
+Server threadEx[04Jun2025 16:58:22.259] [Server thread/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade
+Server threadEx[04Jun2025 16:58:22.275] [Server thread/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade
+Server threadEx[04Jun2025 16:58:22.282] [Server thread/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade
+Server threadEx[04Jun2025 17:00:09.970] [User Authenticator #1/INFO] [net.minecraft.class_3248/]: UUID of player SimonPro74 is 2443d009-a4b6-3027-9a02-688c0f537c7c
+User Authenticator #1Ex[04Jun2025 17:00:10.198] [ForkJoinPool.commonPool-worker-1/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+ForkJoinPool.commonPool-worker-1Ex[04Jun2025 17:00:12.776] [Server thread/INFO] [net.minecraft.class_3324/]: SimonPro74[/127.64.18.150:43937] logged in with entity id 159 at (-316.30000001192093, 110.0, -411.7492546508408)
+Server threadEx[04Jun2025 17:00:12.794] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Loading config from file...
+Server threadEx[04Jun2025 17:00:12.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SimonPro74 joined the game
+Server threadEx[04Jun2025 17:01:10.826] [User Authenticator #2/INFO] [net.minecraft.class_3248/]: UUID of player badbalta is 579d3729-fec9-3117-a498-396f1e1e9051
+User Authenticator #2Ex[04Jun2025 17:01:13.235] [Server thread/INFO] [net.minecraft.class_3324/]: badbalta[/127.64.18.150:33377] logged in with entity id 526 at (-382.10070358725926, 106.0, -398.3828909265412)
+Server threadEx[04Jun2025 17:01:13.236] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Loading config from file...
+Server threadEx[04Jun2025 17:01:13.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta joined the game
+Server threadEx[04Jun2025 17:04:32.101] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+Server threadEx[04Jun2025 17:04:38.299] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+Server threadEx[04Jun2025 17:04:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+Server threadEx[04Jun2025 17:04:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skin<--[HERE]
+Server threadEx[04Jun2025 17:04:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+Server threadEx[04Jun2025 17:04:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skin help<--[HERE]
+Server threadEx[04Jun2025 17:04:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SimonPro74 fell from a high place
+Server threadEx[04Jun2025 17:05:19.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+Server threadEx[04Jun2025 17:05:40.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported SimonPro74 to badbalta
+Server threadEx[04Jun2025 17:06:08.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported SimonPro74 to badbalta
+Server threadEx[04Jun2025 17:06:38.903] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for badbalta with unique ID travelersbackpack.bat_04.06.2025-17.06.38
+Server threadEx[04Jun2025 17:06:38.906] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -381 Y: 95 Z: -425
+Server threadEx[04Jun2025 17:06:38.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta tried to swim in lava
+Server threadEx[04Jun2025 17:07:15.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported badbalta to SimonPro74
+Server threadEx

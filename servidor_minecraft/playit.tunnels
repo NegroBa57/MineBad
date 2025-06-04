@@ -1,0 +1,61 @@
+{
+  "tcp_alloc": {
+    "allowed": 6,
+    "claimed": 1,
+    "desired": 1
+  },
+  "tunnels": [
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "record-bleeding.gl.joinmc.link",
+          "assigned_srv": "record-bleeding.gl.joinmc.link",
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "abda45a3-3c16-4316-8705-50a15616ae40",
+          "ip_hostname": "16.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 3327,
+          "port_start": 3326,
+          "region": "global",
+          "static_ip4": "147.185.221.16",
+          "static_ip6": "2602:fbaf:0:1::10",
+          "tunnel_ip": "2602:fbaf:0:1::10"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-06-03T19:32:49.575332Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "45838df1-55ee-45e6-9e3d-98f84a9684d4",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "6c2c1b95-ea8f-4f4b-bc06-b834448fc9c5",
+          "agent_name": "Badmine",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
+    }
+  ],
+  "udp_alloc": {
+    "allowed": 6,
+    "claimed": 0,
+    "desired": 0
+  }
+}
