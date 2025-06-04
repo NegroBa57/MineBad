@@ -589,4 +589,6 @@ Server threadEx[04Jun2025 18:34:34.197] [Server thread/INFO] [net.minecraft.clas
 Server threadEx[04Jun2025 18:34:34.203] [Server thread/INFO] [net.minecraft.class_3079/]: Locating element minecraft:jungle took 5 ms
 Server threadEx[04Jun2025 18:34:36.813] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /locate biome minecraft:jungle
 Server threadEx[04Jun2025 18:34:36.818] [Server thread/INFO] [net.minecraft.class_3079/]: Locating element minecraft:jungle took 4 ms
+Server threadEx[04Jun2025 18:44:12.197] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta lost connection: Disconnected
+Server threadEx[04Jun2025 18:44:12.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta left the game
 Server threadEx
