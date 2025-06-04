@@ -3221,6 +3221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-06-04 19:30:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-06-04 19:25:07 +0000"

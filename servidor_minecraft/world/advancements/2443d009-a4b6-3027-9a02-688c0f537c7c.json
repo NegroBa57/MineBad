@@ -3280,6 +3280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-04 19:34:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-06-04 18:59:55 +0000"
@@ -3289,6 +3295,30 @@
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2025-06-04 18:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-04 19:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-04 19:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-04 19:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-06-04 19:35:53 +0000"
     },
     "done": true
   },
