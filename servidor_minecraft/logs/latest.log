@@ -573,4 +573,20 @@ Worker-Main-1Ex[04Jun2025 18:14:48.068] [Worker-Main-1/WARN] [net.minecraft.clas
 Worker-Main-1Ex[04Jun2025 18:14:48.068] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
 Worker-Main-1Ex[04Jun2025 18:14:48.068] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
 Worker-Main-1Ex[04Jun2025 18:14:48.068] [Worker-Main-1/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'forge:entity_gravity'
-Worker-Main-1Ex
+Worker-Main-1Ex[04Jun2025 18:21:33.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta has made the advancement [Ice Bucket Challenge]
+Server threadEx[04Jun2025 18:24:23.781] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /locate biome minecraft:jungle
+Server threadEx[04Jun2025 18:24:23.850] [Server thread/INFO] [net.minecraft.class_3079/]: Locating element minecraft:jungle took 61 ms
+Server threadEx[04Jun2025 18:24:51.205] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <badbalta> -622 6089
+Async Chat Thread - #0Ex[04Jun2025 18:29:29.247] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta lost connection: Disconnected
+Server threadEx[04Jun2025 18:29:29.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta left the game
+Server threadEx[04Jun2025 18:32:02.863] [User Authenticator #3/INFO] [net.minecraft.class_3248/]: UUID of player badbalta is 579d3729-fec9-3117-a498-396f1e1e9051
+User Authenticator #3Ex[04Jun2025 18:32:05.263] [Server thread/INFO] [net.minecraft.class_3324/]: badbalta[/127.64.18.150:59853] logged in with entity id 32907 at (-492.69999998807907, 136.0, -6143.699999988079)
+Server threadEx[04Jun2025 18:32:05.263] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Loading config from file...
+Server threadEx[04Jun2025 18:32:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badbalta joined the game
+Server threadEx[04Jun2025 18:34:07.534] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /locate biome minecraft:bamboo_jungle
+Server threadEx[04Jun2025 18:34:07.535] [Server thread/INFO] [net.minecraft.class_3079/]: Locating element minecraft:bamboo_jungle took 0 ms
+Server threadEx[04Jun2025 18:34:34.197] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /locate biome minecraft:jungle
+Server threadEx[04Jun2025 18:34:34.203] [Server thread/INFO] [net.minecraft.class_3079/]: Locating element minecraft:jungle took 5 ms
+Server threadEx[04Jun2025 18:34:36.813] [Server thread/INFO] [net.minecraft.class_3244/]: badbalta issued server command: /locate biome minecraft:jungle
+Server threadEx[04Jun2025 18:34:36.818] [Server thread/INFO] [net.minecraft.class_3079/]: Locating element minecraft:jungle took 4 ms
+Server threadEx

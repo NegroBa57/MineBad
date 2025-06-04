@@ -14,24 +14,29 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-06-03 21:29:17 +0000",
-      "minecraft:beach": "2025-06-03 20:57:12 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-04 17:46:16 +0000",
       "minecraft:forest": "2025-06-03 20:47:52 +0000",
       "minecraft:taiga": "2025-06-03 21:45:09 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-03 21:44:03 +0000",
+      "minecraft:ice_spikes": "2025-06-04 17:22:22 +0000",
+      "minecraft:frozen_ocean": "2025-06-04 17:29:05 +0000",
+      "minecraft:frozen_river": "2025-06-04 17:10:55 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-04 17:29:49 +0000",
+      "minecraft:ocean": "2025-06-04 18:20:55 +0000",
+      "minecraft:birch_forest": "2025-06-04 18:10:37 +0000",
+      "minecraft:bamboo_jungle": "2025-06-04 18:34:52 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-04 18:23:53 +0000",
+      "minecraft:beach": "2025-06-03 20:57:12 +0000",
+      "minecraft:sparse_jungle": "2025-06-04 18:27:30 +0000",
       "minecraft:river": "2025-06-03 20:48:47 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-04 18:22:17 +0000",
       "minecraft:stony_shore": "2025-06-04 17:39:40 +0000",
       "minecraft:snowy_plains": "2025-06-04 17:10:17 +0000",
       "minecraft:dripstone_caves": "2025-06-03 22:02:59 +0000",
       "minecraft:snowy_taiga": "2025-06-04 17:22:59 +0000",
-      "minecraft:deep_cold_ocean": "2025-06-03 21:44:03 +0000",
-      "minecraft:ice_spikes": "2025-06-04 17:22:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 18:10:43 +0000",
-      "minecraft:frozen_ocean": "2025-06-04 17:29:05 +0000",
-      "minecraft:frozen_river": "2025-06-04 17:10:55 +0000",
-      "minecraft:deep_frozen_ocean": "2025-06-04 17:29:49 +0000",
       "minecraft:deep_dark": "2025-06-03 22:25:20 +0000",
       "minecraft:meadow": "2025-06-03 20:54:06 +0000",
-      "minecraft:birch_forest": "2025-06-04 18:10:37 +0000",
       "minecraft:plains": "2025-06-03 20:42:48 +0000"
     },
     "done": false
@@ -2414,6 +2419,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-04 18:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-04 18:19:20 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-06-04 17:01:06 +0000"
@@ -2423,6 +2446,18 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-04 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/jungle_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-04 18:32:11 +0000"
     },
     "done": true
   },
@@ -2462,9 +2497,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-04 18:28:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 17:29:57 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
     },
     "done": true
   },
@@ -2477,6 +2542,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 17:29:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
     },
     "done": true
   },
@@ -2525,6 +2596,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
     },
     "done": true
   },
@@ -2582,6 +2659,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 18:02:59 +0000"
@@ -2624,6 +2707,24 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-04 18:28:36 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2025-06-04 18:02:59 +0000"
@@ -2642,9 +2743,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-04 18:26:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-06-04 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-04 18:19:20 +0000"
     },
     "done": true
   },
@@ -2657,6 +2770,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-06-04 18:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-04 18:19:20 +0000"
     },
     "done": true
   },
@@ -2678,6 +2797,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:13 +0000"
@@ -2690,6 +2821,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:13 +0000"
@@ -2699,6 +2836,18 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-06-04 18:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_beach": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
     },
     "done": true
   },
@@ -2720,15 +2869,51 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:13 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-04 18:29:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
     },
     "done": true
   },
@@ -2744,6 +2929,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:13 +0000"
@@ -2753,6 +2944,18 @@
   "mcwtrpdoors:recipes/print_paper": {
     "criteria": {
       "has_logs": "2025-06-04 18:02:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
     },
     "done": true
   },
@@ -2780,9 +2983,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-06-04 18:26:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-06-04 17:23:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-06-04 18:29:01 +0000"
     },
     "done": true
   },
@@ -2798,6 +3019,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-04 18:03:06 +0000"
@@ -2807,6 +3034,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-04 17:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-04 18:29:01 +0000"
     },
     "done": true
   },
@@ -2834,6 +3067,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 18:02:59 +0000"
@@ -2846,15 +3085,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 17:29:57 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:32:11 +0000"
     },
     "done": true
   },
@@ -2873,6 +3130,18 @@
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 18:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-06-04 18:35:06 +0000"
     },
     "done": true
   },
@@ -2906,15 +3175,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 18:02:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 17:23:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-04 18:35:06 +0000"
     },
     "done": true
   },
@@ -2936,9 +3229,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-04 18:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-06-04 18:32:11 +0000"
     },
     "done": true
   },
