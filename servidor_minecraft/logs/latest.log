@@ -314,3 +314,44 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:58:09] [Server thread/WARN]: SimonPro74 moved too quickly! 6.064425534618408,-0.9179797984314177,-8.070738601081757
 [22:58:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
 [23:03:01] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:16:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:54] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:16:54] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:18:54] [Server thread/INFO]: badbalta has made the advancement [Take Aim]
+[23:21:45] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:22:00] [Server thread/INFO]: badbalta was slain by Piglin
+[23:22:08] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[23:22:19] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[23:22:23] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:23:13] [Server thread/INFO]: SimonPro74 was slain by Piglin
+[23:23:18] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:23:57] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:24:10] [Server thread/INFO]: badbalta was slain by Piglin Brute
+[23:24:17] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[23:24:33] [Server thread/INFO]: SimonPro74 was slain by Piglin
+[23:24:37] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:25:02] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[23:25:06] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:25:09] [Server thread/INFO]: badbalta was burned to a crisp while fighting Blaze
+[23:25:43] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:28:12] [Server thread/INFO]: badbalta has made the advancement [War Pigs]
+[23:28:38] [Server thread/INFO]: SimonPro74 has made the advancement [War Pigs]
+[23:28:48] [Server thread/INFO]: SimonPro74 has made the advancement [Hidden in the Depths]
+[23:29:17] [Server thread/INFO]: badbalta has made the advancement [Hidden in the Depths]
+[23:30:05] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[23:30:12] [Server thread/INFO]: badbalta was slain by Piglin Brute
+[23:30:20] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[23:30:20] [Server thread/INFO]: SimonPro74 left the game
+[23:30:33] [Server thread/INFO]: badbalta lost connection: Disconnected
+[23:30:33] [Server thread/INFO]: badbalta left the game
+[23:30:44] [Server thread/INFO]: Stopping the server
+[23:30:44] [Server thread/INFO]: Stopping server
+[23:30:44] [Server thread/INFO]: Saving players
+[23:30:44] [Server thread/INFO]: Saving worlds
+[23:30:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:30:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:30:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:30:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:30:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:30:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:30:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
