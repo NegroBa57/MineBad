@@ -15,6 +15,7 @@
   "spawner_hardness": 5,
   "item_id_blacklist": [],
   "disable_specific_egg_drops": {
+    "artifacts:mimic": 0,
     "endermanoverhaul:badlands_enderman": 0,
     "endermanoverhaul:cave_enderman": 0,
     "endermanoverhaul:coral_enderman": 0,
