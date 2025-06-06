@@ -894,3 +894,12 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:49:07] [Server thread/INFO]: SimonPro74 lost connection: Timed out
 [21:49:07] [Server thread/INFO]: SimonPro74 left the game
 [21:49:07] [Server thread/WARN]: handleDisconnection() called twice
+[21:57:55] [ForkJoinPool.commonPool-worker-9/WARN]: Failed to fetch skin: not found
+[21:57:58] [Server thread/INFO]: Simonpro74[/127.220.176.23:55367] logged in with entity id 31167 at (19.5, 74.0, -54.5)
+[21:57:58] [Server thread/INFO]: Loading config from file...
+[21:57:58] [Server thread/INFO]: Simonpro74 joined the game
+[21:58:20] [Server thread/INFO]: Simonpro74 lost connection: Disconnected
+[21:58:20] [Server thread/INFO]: Simonpro74 left the game
+[22:01:48] [Server thread/INFO]: SimonPro74[/127.220.176.23:58901] logged in with entity id 31358 at (80.5, 94.0, -1067.5028943387442)
+[22:01:48] [Server thread/INFO]: Loading config from file...
+[22:01:48] [Server thread/INFO]: SimonPro74 joined the game
