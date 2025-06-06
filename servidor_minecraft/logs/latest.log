@@ -882,3 +882,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:15:11] [Server thread/INFO]: SimonPro74 fell from a high place
 [20:22:55] [Server thread/INFO]: SimonPro74 fell from a high place
 [20:30:10] [Server thread/INFO]: SimonPro74 fell from a high place
+[20:42:54] [Server thread/INFO]: SimonPro74 fell from a high place
+[20:45:28] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[20:45:28] [Server thread/INFO]: SimonPro74 left the game
