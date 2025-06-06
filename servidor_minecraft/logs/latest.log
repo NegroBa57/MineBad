@@ -851,3 +851,10 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:02:59] [Server thread/INFO]: SimonPro74 was slain by Wither Skeleton
 [19:03:23] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [19:03:30] [Server thread/INFO]: SimonPro74 has made the advancement [Into Fire]
+[19:05:11] [Server thread/INFO]: SimonPro74 tried to swim in lava to escape Blaze
+[19:05:54] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:07:22] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:08:36] [Server thread/INFO]: badbalta was doomed to fall by Piglin
+[19:08:58] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[19:10:04] [Server thread/INFO]: SimonPro74 tried to swim in lava to escape Blaze
+[19:10:49] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]

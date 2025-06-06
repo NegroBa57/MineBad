@@ -713,8 +713,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-04 19:26:15 +0000",
+      "minecraft:blaze": "2025-06-06 19:03:39 +0000",
       "minecraft:skeleton": "2025-06-03 21:47:10 +0000",
       "minecraft:witch": "2025-06-05 20:06:13 +0000",
+      "minecraft:wither_skeleton": "2025-06-06 19:01:39 +0000",
       "minecraft:cave_spider": "2025-06-03 22:14:50 +0000",
       "minecraft:piglin": "2025-06-05 23:22:04 +0000",
       "minecraft:vindicator": "2025-06-05 19:21:26 +0000",
@@ -845,6 +847,7 @@
       "potato": "2025-06-03 21:17:29 +0000",
       "salmon": "2025-06-03 21:58:20 +0000",
       "cooked_beef": "2025-06-03 21:02:56 +0000",
+      "baked_potato": "2025-06-06 19:09:19 +0000",
       "melon_slice": "2025-06-05 23:19:21 +0000",
       "porkchop": "2025-06-03 22:00:01 +0000"
     },
@@ -5173,6 +5176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-06 19:01:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-06 18:46:49 +0000"
@@ -5224,6 +5233,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-06 18:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-06 19:03:30 +0000"
     },
     "done": true
   },
@@ -5290,6 +5305,12 @@
   "stoneworks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-06 18:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-06 19:01:35 +0000"
     },
     "done": true
   },
@@ -5437,6 +5458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-06 19:01:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-06 18:39:12 +0000"
@@ -5527,6 +5554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-06 19:01:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-06 18:46:49 +0000"
@@ -5587,6 +5620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-06 19:01:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-06 18:39:12 +0000"
@@ -5620,6 +5659,12 @@
   "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-06 18:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-06 19:01:35 +0000"
     },
     "done": true
   },
@@ -5671,6 +5716,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-06-06 19:01:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-06 18:39:12 +0000"
@@ -5680,6 +5731,18 @@
   "stoneworks:recipes/building_blocks/sandstone_plate_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-06 18:46:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-06 19:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-06 19:03:30 +0000"
     },
     "done": true
   },
@@ -5722,6 +5785,12 @@
   "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-06 18:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-06 19:03:30 +0000"
     },
     "done": true
   },
