@@ -841,3 +841,13 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:43:40] [Server thread/INFO]: badbalta joined the game
 [18:51:24] [Server thread/INFO]: [badbalta: Gamerule keepInventory is now set to: true]
 [18:53:22] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[18:56:15] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[18:57:15] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[18:57:29] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[18:57:40] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[18:58:23] [Server thread/INFO]: SimonPro74 has made the advancement [A Terrible Fortress]
+[18:58:29] [Server thread/INFO]: badbalta has made the advancement [Into Fire]
+[18:58:46] [Server thread/INFO]: Villager class_1646['Cartographer'/5537, l='ServerLevel[world]', x=-1.00, y=-65.00, z=-704.53] died, message: 'Cartographer was killed'
+[19:02:59] [Server thread/INFO]: SimonPro74 was slain by Wither Skeleton
+[19:03:23] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:03:30] [Server thread/INFO]: SimonPro74 has made the advancement [Into Fire]
