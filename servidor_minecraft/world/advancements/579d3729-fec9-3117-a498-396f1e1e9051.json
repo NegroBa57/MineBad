@@ -26,10 +26,14 @@
       "minecraft:deep_frozen_ocean": "2025-06-04 17:29:48 +0000",
       "minecraft:ocean": "2025-06-04 18:20:55 +0000",
       "minecraft:jungle": "2025-06-04 19:08:15 +0000",
+      "minecraft:sunflower_plains": "2025-06-06 04:48:38 +0000",
       "minecraft:birch_forest": "2025-06-04 18:11:56 +0000",
       "minecraft:bamboo_jungle": "2025-06-04 18:28:11 +0000",
+      "minecraft:wooded_badlands": "2025-06-06 05:08:25 +0000",
       "minecraft:warm_ocean": "2025-06-05 19:19:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 18:23:54 +0000",
+      "minecraft:badlands": "2025-06-06 05:06:57 +0000",
+      "minecraft:flower_forest": "2025-06-06 04:48:45 +0000",
       "minecraft:beach": "2025-06-03 20:47:24 +0000",
       "minecraft:dark_forest": "2025-06-04 19:58:13 +0000",
       "minecraft:sparse_jungle": "2025-06-04 18:27:30 +0000",
@@ -5291,6 +5295,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/tall_jungle_door": {
+    "criteria": {
+      "has_items": "2025-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
   "thaumon:recipes/decorations/eldritch_stone_capstone": {
     "criteria": {
       "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
@@ -5324,6 +5334,12 @@
   "thaumon:recipes/decorations/eldritch_stone_pillar": {
     "criteria": {
       "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2025-06-06 04:55:23 +0000"
     },
     "done": true
   },
@@ -5369,6 +5385,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_jungle_door": {
+    "criteria": {
+      "has_items": "2025-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-06-06 04:22:24 +0000"
@@ -5411,6 +5433,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-06-06 04:55:23 +0000"
+    },
+    "done": true
+  },
   "thaumon:recipes/decorations/eldritch_stone_slab_from_eldritch_stone_stonecutting": {
     "criteria": {
       "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
@@ -5426,6 +5454,18 @@
   "thaumon:recipes/decorations/eldritch_stone_tile_stairs": {
     "criteria": {
       "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2025-06-06 04:54:20 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/short_jungle_door_sawmill": {
+    "criteria": {
+      "has_items": "2025-06-06 04:55:33 +0000"
     },
     "done": true
   },
