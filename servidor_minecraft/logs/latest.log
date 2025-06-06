@@ -932,3 +932,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:04:20] [Server thread/INFO]: Loading config from file...
 [23:04:20] [Server thread/INFO]: badbalta joined the game
 [23:04:35] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:08:40] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[23:10:33] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:13:31] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[23:16:14] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]

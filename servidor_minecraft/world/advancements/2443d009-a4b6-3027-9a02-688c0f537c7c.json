@@ -6919,6 +6919,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-06-06 23:14:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 22:24:16 +0000"
