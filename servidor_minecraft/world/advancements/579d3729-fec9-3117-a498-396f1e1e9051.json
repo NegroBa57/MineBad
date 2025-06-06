@@ -5285,15 +5285,171 @@
     },
     "done": true
   },
+  "thaumon:recipes/decorations/eldritch_stone_slab": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_capstone": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_tiles_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/inlaid_eldritch_stone_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_bricks_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_wall_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_pillar": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_window": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_wall": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_lantern": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/engraved_eldritch_stone_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_bricks": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_capstone_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_stairs": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-06-06 04:22:24 +0000"
     },
     "done": false
   },
+  "thaumon:recipes/decorations/chiseled_eldritch_stone_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/wax_off": {
     "criteria": {
       "wax_off": "2025-06-06 04:21:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_tiles_stonecutting": {
+    "criteria": {
+      "has_quartz_tiles": "2025-06-06 04:37:27 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_tile_slab": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_stairs_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_stairs_from_quartz_tiles_stonecutting": {
+    "criteria": {
+      "has_quartz_tiles": "2025-06-06 04:37:27 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_slab_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_facade_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_tile_stairs": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_tiles_stonecutting": {
+    "criteria": {
+      "has_quartz_tiles": "2025-06-06 04:37:27 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone_pillar_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/carved_eldritch_stone_from_eldritch_stone_stonecutting": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/inlaid_eldritch_stone": {
+    "criteria": {
+      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
     },
     "done": true
   },
