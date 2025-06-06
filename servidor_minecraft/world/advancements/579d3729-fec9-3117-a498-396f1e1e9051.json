@@ -26,14 +26,10 @@
       "minecraft:deep_frozen_ocean": "2025-06-04 17:29:48 +0000",
       "minecraft:ocean": "2025-06-04 18:20:55 +0000",
       "minecraft:jungle": "2025-06-04 19:08:15 +0000",
-      "minecraft:sunflower_plains": "2025-06-06 04:48:38 +0000",
       "minecraft:birch_forest": "2025-06-04 18:11:56 +0000",
       "minecraft:bamboo_jungle": "2025-06-04 18:28:11 +0000",
-      "minecraft:wooded_badlands": "2025-06-06 05:08:25 +0000",
       "minecraft:warm_ocean": "2025-06-05 19:19:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-04 18:23:54 +0000",
-      "minecraft:badlands": "2025-06-06 05:06:57 +0000",
-      "minecraft:flower_forest": "2025-06-06 04:48:45 +0000",
       "minecraft:beach": "2025-06-03 20:47:24 +0000",
       "minecraft:dark_forest": "2025-06-04 19:58:13 +0000",
       "minecraft:sparse_jungle": "2025-06-04 18:27:30 +0000",
@@ -46,7 +42,6 @@
       "minecraft:old_growth_birch_forest": "2025-06-04 18:10:42 +0000",
       "minecraft:deep_dark": "2025-06-03 22:35:28 +0000",
       "minecraft:grove": "2025-06-04 17:43:02 +0000",
-      "minecraft:swamp": "2025-06-06 04:32:12 +0000",
       "minecraft:meadow": "2025-06-03 21:56:59 +0000",
       "minecraft:savanna": "2025-06-04 19:18:05 +0000",
       "minecraft:plains": "2025-06-03 20:43:16 +0000"
@@ -606,12 +601,10 @@
       "minecraft:pillager": "2025-06-04 19:25:15 +0000",
       "minecraft:skeleton": "2025-06-03 21:47:18 +0000",
       "minecraft:phantom": "2025-06-05 21:55:35 +0000",
-      "minecraft:witch": "2025-06-06 03:58:48 +0000",
       "minecraft:husk": "2025-06-05 19:21:29 +0000",
       "minecraft:ghast": "2025-06-05 23:18:54 +0000",
       "minecraft:cave_spider": "2025-06-03 22:11:46 +0000",
       "minecraft:piglin": "2025-06-05 22:56:13 +0000",
-      "minecraft:vindicator": "2025-06-06 04:22:37 +0000",
       "minecraft:stray": "2025-06-04 17:12:56 +0000",
       "minecraft:spider": "2025-06-04 18:15:07 +0000",
       "minecraft:piglin_brute": "2025-06-05 23:19:49 +0000",
@@ -4853,643 +4846,187 @@
   },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "hangglider:recipes/tools/glider_wing": {
     "criteria": {
-      "has_leather": "2025-06-06 03:41:45 +0000"
+      "has_leather": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-06-06 03:41:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-06-06 03:56:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-06-06 03:56:46 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_paver_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_calcite_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_brick_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_plate_slab_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_calcite_brick_slab_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-06-06 04:00:22 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_slab": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/tall_jungle_door": {
-    "criteria": {
-      "has_items": "2025-06-06 04:55:33 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_capstone": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_tiles_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/inlaid_eldritch_stone_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_bricks_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_wall_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_pillar": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_jungle": "2025-06-06 04:55:23 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_window": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_wall": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_lantern": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/engraved_eldritch_stone_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_bricks": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_capstone_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_stairs": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/short_jungle_door": {
-    "criteria": {
-      "has_items": "2025-06-06 04:55:33 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-06-06 04:22:24 +0000"
-    },
-    "done": false
-  },
-  "thaumon:recipes/decorations/chiseled_eldritch_stone_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2025-06-06 04:21:32 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_tiles_stonecutting": {
-    "criteria": {
-      "has_quartz_tiles": "2025-06-06 04:37:27 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_tile_slab": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_stairs_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/quartz_tile_stairs_from_quartz_tiles_stonecutting": {
-    "criteria": {
-      "has_quartz_tiles": "2025-06-06 04:37:27 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-06-06 04:55:23 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_slab_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_facade_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_tile_stairs": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:jungle_tower": {
-    "criteria": {
-      "jungle": "2025-06-06 04:54:20 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/short_jungle_door_sawmill": {
-    "criteria": {
-      "has_items": "2025-06-06 04:55:33 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_tiles_stonecutting": {
-    "criteria": {
-      "has_quartz_tiles": "2025-06-06 04:37:27 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/eldritch_stone_pillar_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/carved_eldritch_stone_from_eldritch_stone_stonecutting": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "thaumon:recipes/decorations/inlaid_eldritch_stone": {
-    "criteria": {
-      "has_eldritch_stone": "2025-06-06 04:38:00 +0000"
+      "has_blackstone": "2025-06-06 17:39:08 +0000"
     },
     "done": true
   },
