@@ -907,3 +907,28 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:19:53] [Server thread/INFO]: SimonPro74 has made the advancement [Hot Stuff]
 [22:21:46] [Server thread/INFO]: SimonPro74 tried to swim in lava to escape Skeleton
 [22:22:17] [Server thread/INFO]: SimonPro74 fell from a high place
+[22:42:37] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[22:45:59] [Server thread/INFO]: Villager class_1646['Cartographer'/42924, l='ServerLevel[world]', x=255.47, y=-65.00, z=-1358.00] died, message: 'Cartographer was killed'
+[22:46:44] [Server thread/INFO]: SimonPro74 was slain by Piglin
+[22:50:51] [Server thread/INFO]: SimonPro74 was doomed to fall
+[22:56:30] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:00:22] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:02:05] [Server thread/INFO]: badbalta[/127.220.176.23:56811] logged in with entity id 48056 at (203.5919808884654, 44.0, -1110.9905745150736)
+[23:02:05] [Server thread/INFO]: Loading config from file...
+[23:02:05] [Server thread/INFO]: badbalta joined the game
+[23:02:34] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:03:33] [Server thread/INFO]: badbalta lost connection: Disconnected
+[23:03:33] [Server thread/INFO]: badbalta left the game
+[23:04:20] [Server thread/INFO]: badbalta[/127.220.176.23:42797] logged in with entity id 48874 at (201.64088097897198, 45.0, -1122.0481907020423)
+[23:04:20] [Server thread/INFO]: Loading config from file...
+[23:04:20] [Server thread/INFO]: badbalta joined the game
+[23:04:35] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
