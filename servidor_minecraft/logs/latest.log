@@ -876,3 +876,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:22:33] [Server thread/INFO]: [Not Secure] <SimonPro74> k
 [19:22:39] [Server thread/INFO]: [Not Secure] [Server] XD
 [19:22:46] [Server thread/INFO]: [Not Secure] <SimonPro74> xv
+[19:30:16] [Server thread/INFO]: SimonPro74 was slain by Wither Skeleton
+[19:39:48] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[19:45:12] [Server thread/INFO]: SimonPro74 was slain by Wither Skeleton
