@@ -936,3 +936,44 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:10:33] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [23:13:31] [Server thread/INFO]: SimonPro74 tried to swim in lava
 [23:16:14] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:17:35] [Server thread/INFO]: SimonPro74 was killed by [Intentional Game Design]
+[23:17:42] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:19:24] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[23:20:35] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:23:19] [Server thread/INFO]: SimonPro74 was killed by [Intentional Game Design]
+[23:23:42] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:23:49] [Server thread/INFO]: badbalta was killed
+[23:23:49] [Server thread/INFO]: [badbalta: Killed badbalta]
+[23:27:05] [Server thread/INFO]: SimonPro74 burned to death
+[23:27:19] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:29:35] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:30:33] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[23:31:28] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[23:31:28] [Server thread/INFO]: SimonPro74 left the game
+[23:36:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:14] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:14] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:14] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:14] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:14] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:36:14] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[23:41:55] [Server thread/INFO]: badbalta lost connection: Disconnected
+[23:41:55] [Server thread/INFO]: badbalta left the game
+[23:42:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:42:01] [Server thread/INFO]: stopstop<--[HERE]
+[23:42:08] [Server thread/INFO]: Stopping the server
+[23:42:08] [Server thread/INFO]: Stopping server
+[23:42:08] [Server thread/INFO]: Saving players
+[23:42:08] [Server thread/INFO]: Saving worlds
+[23:42:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:42:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:42:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:42:08] [Server thread/INFO]: Unloading server config for barteringstation
+[23:42:08] [Server thread/INFO]: Unloading server config for hangglider
+[23:42:08] [Server thread/INFO]: Unloading server config for iteminteractions
