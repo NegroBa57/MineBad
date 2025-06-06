@@ -885,3 +885,12 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:42:54] [Server thread/INFO]: SimonPro74 fell from a high place
 [20:45:28] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
 [20:45:28] [Server thread/INFO]: SimonPro74 left the game
+[21:43:22] [Server thread/INFO]: SimonPro74[/127.220.176.23:42865] logged in with entity id 29344 at (741.5, 100.0, -8294.5)
+[21:43:22] [Server thread/INFO]: Loading config from file...
+[21:43:22] [Server thread/INFO]: SimonPro74 joined the game
+[21:48:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:48:59] [Server thread/INFO]: saysay hola<--[HERE]
+[21:49:05] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:49:07] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[21:49:07] [Server thread/INFO]: SimonPro74 left the game
+[21:49:07] [Server thread/WARN]: handleDisconnection() called twice
