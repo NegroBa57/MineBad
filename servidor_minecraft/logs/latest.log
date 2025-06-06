@@ -839,3 +839,5 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:43:40] [Server thread/INFO]: badbalta[/127.220.176.23:47949] logged in with entity id 1435 at (736.9793734559884, 119.0, -8665.505268792205)
 [18:43:40] [Server thread/INFO]: Loading config from file...
 [18:43:40] [Server thread/INFO]: badbalta joined the game
+[18:51:24] [Server thread/INFO]: [badbalta: Gamerule keepInventory is now set to: true]
+[18:53:22] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
