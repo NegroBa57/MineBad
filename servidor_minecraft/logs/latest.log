@@ -904,3 +904,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:01:48] [Server thread/INFO]: Loading config from file...
 [22:01:48] [Server thread/INFO]: SimonPro74 joined the game
 [22:13:03] [Server thread/INFO]: SimonPro74 was doomed to fall by Zombie
+[22:19:53] [Server thread/INFO]: SimonPro74 has made the advancement [Hot Stuff]
+[22:21:46] [Server thread/INFO]: SimonPro74 tried to swim in lava to escape Skeleton
+[22:22:17] [Server thread/INFO]: SimonPro74 fell from a high place
