@@ -880,3 +880,5 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:39:48] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
 [19:45:12] [Server thread/INFO]: SimonPro74 was slain by Wither Skeleton
 [20:15:11] [Server thread/INFO]: SimonPro74 fell from a high place
+[20:22:55] [Server thread/INFO]: SimonPro74 fell from a high place
+[20:30:10] [Server thread/INFO]: SimonPro74 fell from a high place
